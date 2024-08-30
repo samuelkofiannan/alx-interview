@@ -5,3 +5,4 @@ This repository consists of Frontend JavaScript projects.
 3. 0x02-minimum_operations
 4. 0x03-log_parsing
 5. 0x04-utf8_validation
+6. 0x05-nqueens
