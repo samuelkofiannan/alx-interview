@@ -6,3 +6,4 @@ This repository consists of Frontend JavaScript projects.
 4. 0x03-log_parsing
 5. 0x04-utf8_validation
 6. 0x05-nqueens
+7. 0x06. Star Wars API
