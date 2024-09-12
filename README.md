@@ -7,3 +7,4 @@ This repository consists of Frontend JavaScript projects.
 5. 0x04-utf8_validation
 6. 0x05-nqueens
 7. 0x06. Star Wars API
+8. 0x07. Rotate 2D Matrix
